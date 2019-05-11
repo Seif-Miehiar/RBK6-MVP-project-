@@ -1,0 +1,23 @@
+{
+  "name": "rbk6-mvp-project",
+  "version": "1.0.0",
+  "description": "second project in the immersive phase 11/5/2019",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seif-Miehiar/RBK6-MVP-project-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seif-Miehiar/RBK6-MVP-project-/issues"
+  },
+  "homepage": "https://github.com/Seif-Miehiar/RBK6-MVP-project-#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
